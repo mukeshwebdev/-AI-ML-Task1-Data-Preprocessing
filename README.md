@@ -1,4 +1,3 @@
-readme = """
 # Titanic Data Cleaning and Preprocessing – AI & ML Internship Task 1
 
 ## 📌 Task Objective
